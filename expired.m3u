@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml" x-tvg-url="https://vnepg.site/epg.xml"
+
+#EXTINF:-1 tvg-id="expired" logo-overlay="https://i.ibb.co/G3kV8DSC/antv.png" logo-position="bottom_right" logo-opacity="60" logo-scale="10" , Expired
+https://github.com/vchessdev/sport/raw/refs/heads/main/playlist.m3u8
